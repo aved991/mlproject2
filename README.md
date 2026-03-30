@@ -4,4 +4,4 @@
 -Implemented linear models, Tree models, KN regressor, SVM, Gradient Boosting.<br>
 -Built ML pipelines and evaluated the models based on Mean absolute error and Variance scores.<br>
 -Observed variance score & Planned deployment in AWS, Azure, Google Cloud.<br>
--App deployment using HTML & flask framework
+-A Marks Prediction App was created using flask and UI/UX using HTML
